@@ -1,4 +1,4 @@
-[Who to run the Server]
+[How to run the Server]
 1. docker build -t "SOME FANCY NAME" .
 2. docker run -d -i -p 19132:19132 -l "SOME FANCY NAME"
 3. docker exec -it "SOME FANCY NAME" /bin/bash
