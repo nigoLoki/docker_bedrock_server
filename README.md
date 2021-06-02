@@ -7,4 +7,4 @@
 
 [Extras]
 If you want to run the Server in the Backgroud type ./start_server.sh & >> /dev/null
-# docker_bedrock_server
+
